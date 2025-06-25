@@ -17,19 +17,21 @@
 
 
 
+<h3 align="center">BTech Student | Aspiring ML Engineer & Game Developer 🚀</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
 
 
+<ul>
+  <li>🛠️ Passionate about: <strong>2D Game Development (Love2D)</strong>, <strong>Web Development</strong>, and <strong>Automation</strong></li>
+  <li>🌱 Learning path includes: <strong>Full Stack (MERN)</strong>, <strong>C++ DSA</strong>, <strong>Unity 3D</strong>, and <strong>GitHub workflows</strong></li>
+  <li>🔧 Skilled in: <strong>C, Java OOP, Python, SQL</strong>, and ML tools like <strong>NumPy & Pandas</strong></li>
+  <li>💬 Enjoy discussing: <strong>Java, Git, and DSA in C</strong></li>
+  <li>📫 Reach me: <a href="mailto:arnav.dev.mail@gmail.com">arnav.dev.mail@gmail.com</a></li>
+  <li>⚡ Fun Fact: <em>GitHub has more code than stars in the galaxy</em> 😄</li>
+</ul>
 
----
-
-- 🔭 Passionate about: **2D Game Development (Love2D), Web Development, and Automation**
-- 🌱 Learning path includes: **Full Stack (MERN), C++ DSA, Unity 3D, and Git/GitHub workflows**
-- 🛠️ Skilled in fundamentals of: **C, Java OOP, Python, SQL, and ML tools like NumPy & Pandas**
-- 💬 Enjoy discussing: **Java, Git, and DSA in C**
-- 📫 Reach me at: **arnav.dev.mail@gmail.com**
-- ⚡ Fun Fact: *GitHub has more code than stars in the galaxy 😄*
----
 
 
 
