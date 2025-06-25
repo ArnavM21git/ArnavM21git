@@ -1,13 +1,11 @@
 
 
 
-<h1 align="center"><samp></samp>Hey There!!
-
-  
-<br/>
-  I'm Arnav Mundada
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></samp>
+<h1 align="center">
+  <samp>Hey There!</samp><br/>
+  <samp><strong>I'm Arnav Mundada<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></strong></samp>
 </h1>
+
 
 <a href="https://github.com/ArnavM21git" target="_blank">
   <img src="https://raw.githubusercontent.com/ArnavM21git/ArnavM21git/main/img.gif" alt="Arnav Banner" />
