@@ -7,7 +7,7 @@
 </h1>
 
 
-<a href="https://github.com/ArnavM21git" target="_blank">
+<a href="#" >
   <img src="https://raw.githubusercontent.com/ArnavM21git/ArnavM21git/main/img.gif" alt="Arnav Banner" />
 </a>
 
