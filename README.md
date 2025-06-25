@@ -39,7 +39,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40"/></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/></a>
-<a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
