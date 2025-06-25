@@ -32,6 +32,7 @@
   <li>💬 Enjoy discussing: <strong>Java, Git, and DSA in C</strong></li>
   <li>📫 Reach me: <a href="mailto:arnav.dev.mail@gmail.com">arnav.dev.mail@gmail.com</a></li>
   <li>⚡ Fun Fact: <em>GitHub has more code than stars in the galaxy</em> 😄</li>
+  <a href="#"><img src="<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/></a>" alt="game" width="60" height="60"/></a>
 </ul>
 
 
