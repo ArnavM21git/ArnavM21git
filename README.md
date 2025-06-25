@@ -42,7 +42,7 @@
   <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60"/></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60"/></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" width="60" height="60"/></a>
   <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="60" height="60"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/></a>
   <br/>
