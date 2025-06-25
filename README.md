@@ -50,7 +50,6 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="60" height="60"/></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="60" height="60"/></a>
-  
   <a href="#"><img src="https://numpy.org/images/logo.svg" alt="NumPy" width="60" height="60"/></a>
   <a href="#"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="60" height="60"/></a>
 </p>
