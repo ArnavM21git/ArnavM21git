@@ -35,32 +35,40 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40"/></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="60" height="60"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="40" height="40"/></a>
-<br/>
-  <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="#"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60"/></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60"/></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="60" height="60"/></a>
+  <a href="#"><img src="" alt="HTML5" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="60" height="60"/></a>
+  <br/>
+  <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="60" height="60"/></a>
+  <a href="#"><img src="https://numpy.org/images/logo.svg" alt="NumPy" width="60" height="60"/></a>
+  <a href="#"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="60" height="60"/></a>
 </p>
+
 
 
 ---
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arnav-mundada-5698b1328" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://instagram.com/arnav_m21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
-<a href="https://github.com/ArnavM21git" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40" />
-</a>
-<a href="mailto:arnav.dev.mail@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/arnav-mundada-5698b1328" target="blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60"/>
+  </a>
+  <a href="https://instagram.com/arnav_m21" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60"/>
+  </a>
+  <a href="https://github.com/ArnavM21git" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="60" height="60"/>
+  </a>
+  <a href="mailto:arnav.dev.mail@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="60" height="60"/>
+  </a>
 </p>
+
 
 ---
 
