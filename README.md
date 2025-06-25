@@ -48,7 +48,6 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/></a>
   <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="60" height="60"/></a>
- 
   <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="60" height="60"/></a>
   <br/>
