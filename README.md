@@ -1,16 +1,64 @@
-## <samp> Hi there 👋</samp>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/ArnavM21git)
 
-<!--
-**ArnavM21git/ArnavM21git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Arnav Mundada</h1>
+<h3 align="center">BTech Student | Future Full Stack & Game Dev 🚀</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArnavM21git&label=Profile%20views&color=0e75b6&style=flat" alt="ArnavM21git" />
+</p>
+
+---
+
+- 🔭 I’m currently working on **full stack projects and 2D game dev using Live2D**
+- 🌱 Learning: **Web Dev (MERN), C++ DSA, Unity 3D, and GitHub automation**
+- ✅ Done: **C + DSA, Java OOP, Python basics, ML (NumPy & Pandas), SQL basics**
+- 💬 Ask me about: **Java, Git, DSA in C, Game Engines, Web Projects**
+- 📫 Reach me: **arnav.dev.mail@gmail.com**
+- ⚡ Fun Fact: *My bugs run faster than my internet 😄*
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/arnav-mundada-5698b1328" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://instagram.com/arnav_m21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
+<a href="mailto:arnav.dev.mail@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="40" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
+  <a href="#"><img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/></a>
+  <a href="#"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavM21git&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArnavM21git" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnavM21git&show_icons=true&locale=en&theme=tokyonight" alt="ArnavM21git" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavM21git&theme=tokyonight" alt="ArnavM21git" /></p>
+
+---
+
+<h3 align="left">🎯 Motto:</h3>
+> *“Code. Break. Learn. Repeat.”*
