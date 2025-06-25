@@ -25,6 +25,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
 
 
+<div>
+
 <ul>
   <li>🛠️ Passionate about: <strong>2D Game Development (Love2D)</strong>, <strong>Web Development</strong>, and <strong>Automation</strong></li>
   <li>🌱 Learning path includes: <strong>Full Stack (MERN)</strong>, <strong>C++ DSA</strong>, <strong>Unity 3D</strong>, and <strong>GitHub workflows</strong></li>
@@ -32,11 +34,14 @@
   <li>💬 Enjoy discussing: <strong>Java, Git, and DSA in C</strong></li>
   <li>📫 Reach me: <a href="mailto:arnav.dev.mail@gmail.com">arnav.dev.mail@gmail.com</a></li>
   <li>⚡ Fun Fact: <em>GitHub has more code than stars in the galaxy</em> 😄</li>
-
-
-  
-  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="game" align="left"></a>
 </ul>
+
+<a href="#">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="game" width="200" align="right">
+</a>
+
+</div>
+
 
 
 
