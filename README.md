@@ -34,47 +34,20 @@
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-
 <p align="left">
-
- 
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-
- 
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-
-
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-
-  
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-
-
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-
-  
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-
-  
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-
-  
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/MySQL.svg" alt="MySQL Branded" width="50" height="50"/></a>
-
-
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Penguin" width="40" height="40"/></a>
-
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
   <a href="#"><img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/></a>
-
-  
   <a href="#"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/></a>
-
 </p>
 
 
