@@ -23,13 +23,12 @@
 
 ---
 
-- 🔭 I’m currently working on **full stack projects and 2D game dev using Love 2D**
-- 🌱 Learning: **Web Dev (MERN), C++ DSA, Unity 3D, and GitHub automation**
-- ✅ Done: **C + DSA, Java OOP, Python basics, ML (NumPy & Pandas), SQL basics**
-- 💬 Ask me about: **Java, Git, DSA in C, Game Engines, Web Projects**
-- 📫 Reach me: **arnav.dev.mail@gmail.com**
+- 🔭 Passionate about: **2D Game Development (Love2D), Web Development, and Automation**
+- 🌱 Learning path includes: **Full Stack (MERN), C++ DSA, Unity 3D, and Git/GitHub workflows**
+- 🛠️ Skilled in fundamentals of: **C, Java OOP, Python, SQL, and ML tools like NumPy & Pandas**
+- 💬 Enjoy discussing: **Java, Git, and DSA in C**
+- 📫 Reach me at: **arnav.dev.mail@gmail.com**
 - ⚡ Fun Fact: *GitHub has more code than stars in the galaxy 😄*
-
 ---
 
 
