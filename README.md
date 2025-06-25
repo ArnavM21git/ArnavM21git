@@ -1,3 +1,6 @@
+<a href="https://github.com/ArnavM21git" target="_blank">
+  <img src="https://raw.githubusercontent.com/ArnavM21git/ArnavM21git/main/img.gif" alt="Arnav Banner" />
+</a>
 
 
 <h1 align="center">Hi 👋, I'm Arnav Mundada</h1>
