@@ -1,10 +1,12 @@
-<a href="https://github.com/ArnavM21git" target="_blank">
-  <img src="https://raw.githubusercontent.com/ArnavM21git/ArnavM21git/main/img.gif" alt="Arnav Banner" />
-</a>
+
 
 
 <h1 align="center">Hi 👋, I'm Arnav Mundada</h1>
 <h3 align="center">BTech Student | Future ML & Game Dev 🚀</h3>
+
+<a href="https://github.com/ArnavM21git" target="_blank">
+  <img src="https://raw.githubusercontent.com/ArnavM21git/ArnavM21git/main/img.gif" alt="Arnav Banner" />
+</a>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
