@@ -1,7 +1,7 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/ArnavM21git)
+
 
 <h1 align="center">Hi 👋, I'm Arnav Mundada</h1>
-<h3 align="center">BTech Student | Future Full Stack & Game Dev 🚀</h3>
+<h3 align="center">BTech Student | Future ML & Game Dev 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on **full stack projects and 2D game dev using Live2D**
+- 🔭 I’m currently working on **full stack projects and 2D game dev using Love 2D**
 - 🌱 Learning: **Web Dev (MERN), C++ DSA, Unity 3D, and GitHub automation**
 - ✅ Done: **C + DSA, Java OOP, Python basics, ML (NumPy & Pandas), SQL basics**
 - 💬 Ask me about: **Java, Git, DSA in C, Game Engines, Web Projects**
@@ -24,6 +24,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/arnav-mundada-5698b1328" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://instagram.com/arnav_m21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://github.com/ArnavM21git" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40" />
+</a>
 <a href="mailto:arnav.dev.mail@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="40" width="40" /></a>
 </p>
 
@@ -50,15 +53,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavM21git&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArnavM21git" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnavM21git&show_icons=true&locale=en&theme=tokyonight" alt="ArnavM21git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavM21git&theme=tokyonight" alt="ArnavM21git" /></p>
-
----
 
 <h3 align="left">🎯 Motto:</h3>
-> *“Code. Break. Learn. Repeat.”*
+*“Code. Break. Learn. Repeat.”*
