@@ -44,7 +44,7 @@
   <a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60"/></a>
   <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60"/></a>
   <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="60" height="60"/></a>
-  <a href="#"><img src="" alt="HTML5" width="60" height="60"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/></a>
   <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="60" height="60"/></a>
   <br/>
@@ -60,7 +60,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/arnav-mundada-5698b1328" target="blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="80" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="80" height="60"/>
   </a>
   <a href="https://instagram.com/arnav_m21" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60"/>
