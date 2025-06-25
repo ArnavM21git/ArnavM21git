@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/ArnavM21git/ArnavM21git/main/img.gif" alt="Arnav Banner" />
 </a>
 
-<h3 align="center">BTech Student | Aspiring ML Engineer & Game Developer 🚀</h3>
+
 
 
 
