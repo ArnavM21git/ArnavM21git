@@ -44,7 +44,7 @@
 
 
 
----
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60"/></a>
