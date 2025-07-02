@@ -45,9 +45,14 @@
 
 
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left"></h3>
 
 ---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+---
+
 <p align="left">
   <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/></a>
