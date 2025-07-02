@@ -21,10 +21,7 @@
 
 ---
 
-
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
-
-
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman" width=450 >
@@ -37,9 +34,6 @@
   <li>📫 Reach me: <a href="mailto:arnav.dev.mail@gmail.com">arnav.dev.mail@gmail.com</a></li>
   <li>⚡ Fun Fact: <em>GitHub has more code than stars in the galaxy</em> 😄</li>
 </ul>
-
-
-
 
 
 
