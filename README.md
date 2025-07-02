@@ -19,7 +19,7 @@
 
 <h3 align="center">BTech Student | Aspiring ML Engineer & Game Developer 🚀</h3>
 
-
+---
 
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
