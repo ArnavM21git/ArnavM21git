@@ -26,23 +26,29 @@
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman" width=450 >
 </p>
+
 <ul>
-  <li><samp>🛠️ Passionate about: <strong>2D Game Development (Love2D)</strong>, <strong>Web Development</strong>, and <strong>Automation</strong></samp></li>
+  <li ><samp>🛠️ Passionate about: <strong>2D Game Development (Love2D)</strong>, <strong>Web Development</strong>, and <strong>Automation</strong></samp></li>
+  
   <li><samp>🌱 Learning path includes: <strong>Full Stack (MERN)</strong>, <strong>C++ DSA</strong>, <strong>Unity 3D</strong>, and <strong>GitHub workflows</strong></samp></li>
+  
   <li><samp>🔧 Skilled in: <strong>C, Java OOP, Python, SQL</strong>, and ML tools like <strong>NumPy & Pandas</strong></samp></li>
+  
   <li><samp>💬 Enjoy discussing: <strong>Java, Git, and DSA in C</strong></samp></li>
+  
   <li><samp>📫 Reach me: <a href="mailto:arnav.dev.mail@gmail.com">arnav.dev.mail@gmail.com</a></samp></li>
-  <li><samp>⚡ Fun Fact: <em>GitHub has more code than stars in the galaxy</em> 😄</li>
-</ul></samp>
+  
+  <li><samp>⚡ Fun Fact: <em>GitHub has more code than stars in the galaxy</em> 😄</samp></li>
+</ul>
 
 
 
 
+<h3 align="left"><br/><br/><br/></h3>
 
 
 
 
-<h3 align="left"><br/><br/></h3>
 
 ---
 
