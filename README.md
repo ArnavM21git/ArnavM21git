@@ -36,9 +36,9 @@
   
   <li><samp>💬 Enjoy discussing: <strong>Java, Git, and DSA in C</strong></samp></li>
   
-  <li><samp>📫 Reach me: <a href="mailto:arnav.dev.mail@gmail.com">arnav.dev.mail@gmail.com</a></samp></li>
+  <li><samp>📫 Reach me: <strong><a href="mailto:arnav.dev.mail@gmail.com">arnav.dev.mail@gmail.com</a></strong></samp></li>
   
-  <li><samp>⚡ Fun Fact: <em>GitHub has more code than stars in the galaxy</em> 😄</samp></li>
+  <li><samp>⚡ Fun Fact: <em><strong>GitHub has more code than stars in the galaxy</strong></em> 😄</samp></li>
 </ul>
 
 
