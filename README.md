@@ -1,8 +1,10 @@
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Hey+There!;I'm+Arnav+Mundada" alt="Typing SVG" /></a>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There!;I'm+Arnav+Mundada" 
+      alt="Typing SVG" />
+  </a>
+</p>
 
 <a href="#" >
   <img src="img.gif" alt="Arnav Banner" />
