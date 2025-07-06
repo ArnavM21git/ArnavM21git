@@ -1,7 +1,7 @@
 
 
 <a href="#" >
-  <img src="img.gif" alt="Arnav Banner" />
+  <img src="IMG.jpg" alt="Arnav Banner" />
 </a>
 
 
