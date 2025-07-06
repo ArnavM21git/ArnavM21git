@@ -1,10 +1,7 @@
 
 
 
-<h1 align="center">
-  <samp>Hey There!</samp><br/>
-  <samp><strong>I'm Arnav Mundada<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></strong></samp>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Hey+There!;I'm+Arnav+Mundada" alt="Typing SVG" /></a>
 
 
 <a href="#" >
