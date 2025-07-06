@@ -10,9 +10,15 @@
 
 
 
-<h3 align="center">BTech Student | Aspiring ML Engineer & Game Developer 🚀</h3>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffff&background=0000&center=true&vCenter=true&width=435&lines=Software+Tinkerer%F0%9F%8E%AE%7CAI+Enthusiast%F0%9F%93%8A" alt="Typing SVG" />
+  </a>
+</h2>
 
----
+
+
+
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
 
