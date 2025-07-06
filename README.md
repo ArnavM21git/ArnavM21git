@@ -8,7 +8,7 @@
 
 
 <a href="#" >
-  <img src="https://raw.githubusercontent.com/ArnavM21git/ArnavM21git/main/img.gif" alt="Arnav Banner" />
+  <img src="img.gif" alt="Arnav Banner" />
 </a>
 
 
