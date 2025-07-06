@@ -3,7 +3,7 @@
     <img 
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There!;I'm+Arnav+Mundada" 
       alt="Typing SVG" 
-      style="transform: scale(1.5);" />
+      style="transform: scale(4.5);" />
   </a>
 </p>
 
