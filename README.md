@@ -26,7 +26,7 @@
 
 
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
 
 <ul>
   <li ><samp>🛠️ Passionate about: <strong>2D Game Development (Love2D)</strong>, <strong>Web Development</strong>, and <strong>Automation</strong></samp></li><br/>
