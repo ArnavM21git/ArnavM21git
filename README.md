@@ -31,7 +31,7 @@
 <ul>
   <li ><samp>🛠️ Passionate about: <strong>2D Game Development (Love2D)</strong>, <strong>Web Development</strong>, and <strong>Automation</strong></samp></li><br/>
   
-  <li><samp>🌱 Learning path includes: <strong>Full Stack (MERN)</strong>, <strong>C++ DSA</strong>, <strong>Unity 3D</strong>, and <strong>GitHub workflows</strong></samp></li><br/>
+  <li><samp>🌱 Exploring: <strong>Full Stack (MERN)</strong>, <strong>C++ DSA</strong>, <strong>Unity 3D</strong>, and <strong>GitHub workflows</strong></samp></li><br/>
   
   <li><samp>🔧 Skilled in: <strong>C, Java OOP, Python, SQL</strong>, and ML tools like <strong>NumPy & Pandas</strong></samp></li><br/>
   
