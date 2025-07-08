@@ -95,4 +95,4 @@
 
 
 <h3 align="left">🎯 Motto:</h3>
-*“Code. Break. Learn. Repeat.”*
+<strong>“Code. Break. Learn. Repeat.”</strong>
