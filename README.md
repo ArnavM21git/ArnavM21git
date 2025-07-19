@@ -14,7 +14,7 @@
 ---
 
 <h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&width=435&lines=Software+Tinkerer%F0%9F%8E%AE%F0%9F%9B%A0%EF%B8%8F%7CAI+Enthusiast%F0%9F%A4%96%F0%9F%93%8A" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&width=435&lines=Software+Tinkerer%F0%9F%8E%AE%F0%9F%9B%A0%EF%B8%8F%7CAI+Enthusiast%F0%9F%A4%96%F0%9F%93%8A" alt="Typing SVG" /></a>
 </h2>
 
 
