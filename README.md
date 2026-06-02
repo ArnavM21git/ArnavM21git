@@ -96,5 +96,3 @@
 
 
 
-<h3 align="left">🎯 Motto:</h3>
-<strong>“Code. Break. Learn. Repeat.”</strong>
