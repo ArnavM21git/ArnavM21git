@@ -8,7 +8,9 @@
 ---
 
 <h2 align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&width=435&lines=Systems+%26+Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A0;GSoC+2027+Aspirant+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&center=true&vCenter=true&width=700&lines=Systems+%26+Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A0;GSoC+2027+Aspirant+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 </h2>
 
 <a href="#"><img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" /></a>
