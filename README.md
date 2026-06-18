@@ -9,7 +9,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&center=true&vCenter=true&width=1550&height=70&size=40&lines=Systems+%26+Backend+Developer;Competitive+Programmer"
+    src="https://readme-typing-svg.demolab.com?font=Russo+One&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Systems+%26+Backend+Developer;Competitive+Programmer"
+    width="62%"
     alt="Typing SVG"
   />
 </p>
