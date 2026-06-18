@@ -7,11 +7,14 @@
 
 ---
 
-<h2 align="center">
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&center=true&vCenter=true&width=765&lines=Systems+%26+Backend+Developer;Competitive+Programmer" alt="Typing SVG" width="100%" />
-</a>
-</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Russo+One&pause=1000&center=true&vCenter=true&width=1550&height=70&size=40&lines=Systems+%26+Backend+Developer;Competitive+Programmer"
+    alt="Typing SVG"
+  />
+</p>
+
+---
 
 <a href="#"><img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" /></a>
 
